@@ -142,10 +142,8 @@ Ensure you have the following libraries installed:
 pip install pandas numpy matplotlib seaborn
 ```
 
-### **Expected Outcomes**
+### **Project Outcomes**
 
-By the end of this project, you will:
-- Gain a clear understanding of how linear regression works and how to implement it manually using the OLS method.
-- Learn to evaluate the model using standard regression metrics like MSE and R².
-- Visualize the relationship between the feature and the target variable and assess how well the linear regression model fits the data.
-- Check the fundamental assumptions of linear regression, ensuring the model is appropriate for the given data.
+- Developed a simple linear regression model to predict the target variable using a single feature
+- Achieved an R-squared value of 0.81, indicating that 81% of the variation in the target variable is explained by the model, demonstrating a strong fit
+- The model's Root Mean Squared Error (RMSE) is 0.08, meaning the predictions deviate by just 0.08 units on average, highlighting minimal prediction error
