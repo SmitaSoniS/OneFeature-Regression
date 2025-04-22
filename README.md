@@ -11,7 +11,7 @@ This project uses the **WiDS: Agent Jackie Assignment 1 Dataset** from Kaggle to
 
 ### **Features**
 
-- **Target Variable (Dependent Variable)**: The variable that you aim to predict.
+- **Target Variable (Dependent Variable)**: The variable that I aim to predict.
 - **Independent Variable (Single Feature)**: The single feature used to predict the target variable.
 
 ### **Goals**
